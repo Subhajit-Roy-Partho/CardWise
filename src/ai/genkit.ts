@@ -1,7 +1,6 @@
-import {genkit} from 'genkit';
-import {googleAI} from '@genkit-ai/googleai';
+/**
+ * @fileOverview This file previously configured Genkit.
+ * It has been emptied to remove AI functionality.
+ */
 
-export const ai = genkit({
-  plugins: [googleAI()],
-  model: 'googleai/gemini-2.0-flash',
-});
+// Content removed to disable AI features

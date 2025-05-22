@@ -58,9 +58,9 @@ export default function Navbar() {
                  <Button variant="ghost" size="sm" asChild>
                   <Link href="/spending">Spending</Link>
                 </Button>
-                <Button variant="ghost" size="sm" asChild>
+                {/* <Button variant="ghost" size="sm" asChild>
                   <Link href="/ai-suggestions">AI Suggestions</Link>
-                </Button>
+                </Button> */}
               </>
             )}
 
